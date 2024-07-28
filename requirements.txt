@@ -1,0 +1,7 @@
+pyaudio 
+sounddevice 
+numpy 
+scipy 
+wave 
+whisper
+streamlit
